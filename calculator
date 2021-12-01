@@ -2,3 +2,6 @@ int a, b;
 read a,b;
 sum = a+b;
 print sum;
+
+mul = a*b;
+print mul;
